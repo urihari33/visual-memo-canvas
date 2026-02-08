@@ -15,6 +15,7 @@ Place memos, images, and documents freely on an infinite canvas — connect them
 
 <!-- スクリーンショットがあればここに -->
 <!-- ![Screenshot](./assets/screenshot.png) -->
+<img width="1914" height="1034" alt="image" src="https://github.com/user-attachments/assets/b139a3ec-5f74-47f9-9626-dba388cb5fbe" />
 
 ---
 
